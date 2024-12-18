@@ -1,2 +1,2 @@
-# pimp-my-axololt
-Generator of SFEIR Axololt
+# pimp-my-axolotl
+Generator of SFEIR Axolotl
